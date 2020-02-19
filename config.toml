@@ -22,29 +22,35 @@ paginate = 10
     url  = "/"
     weight = 1
 
-[[menu.main]]
-    identifier="blog"
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
-
-[[menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url  = "/contact/"
-    weight = 4
+#[[menu.main]]
+#    identifier="blog"
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 2
+#
+#[[menu.main]]
+#    identifier = "faq"
+#    name = "FAQ"
+#    url  = "/faq/"
+#    weight = 3
 
 [[menu.main]]
     identifier = "about"
     name = "About"
     url  = "/about/"
-    weight = 5
+    weight = 2
+	
+[[menu.main]]
+    identifier = "classes"
+    name = "Classes"
+    url  = "/classes/"
+    weight = 3
+	
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
 
 # Top bar social links menu
 
@@ -60,14 +66,14 @@ paginate = 10
     url = "https://www.facebook.com/SamPakiaraj/"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
-#[[menu.topbar]]
-#    weight = 3
-#    name = "Twitter"
-#    url = "http://twitter.com"
-#    pre = "<i class='fab fa-2x fa-twitter'></i>"
-
 [[menu.topbar]]
     weight = 2
+    name = "Instagram"
+    url = "https://www.instagram.com/fitnesslifestyleipoh/"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 3
     name = "Email"
     url = "mailto:contact@fitnesslifestyle.com.my"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
@@ -107,7 +113,7 @@ paginate = 10
     contact_form_ajax = false
 
     about_us = "<p>Fitness Lifestyle was established in 2010 by Sam Pakiaraj, one of the industry's fitness leaders, with a goal of offering you the best fitness experience possible. This is a place where lives, and lifestyles, are changed. Where members come together to relieve stress, look better, and shape their bodies as well as their futures.</p>"
-    copyright = "Copyright (c) 2010 - 2020, Fitness Lifestyle; all rights reserved."
+    copyright = "Copyright (c) 2010 - 2020 Fitness Lifestyle all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
