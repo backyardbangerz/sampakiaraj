@@ -14,5 +14,5 @@ Let's be honest. Working out can be work. But it should also involve an element 
 
 # The Enviroment
 
-![alternate text](https://raw.githubusercontent.com/backyardbangerz/sampakiaraj/master/static/img/banners/banner-1.jpg)
+![alternate text](/static/img/gym/001.jpg)
 ![alternate text](https://raw.githubusercontent.com/backyardbangerz/sampakiaraj/master/static/img/banners/banner-2.jpg)
