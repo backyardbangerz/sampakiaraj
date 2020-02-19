@@ -14,5 +14,7 @@ Let's be honest. Working out can be work. But it should also involve an element 
 
 # The Enviroment
 
-![alternate text](/static/img/gym/001.jpg)
+<img src="https://github.com/favicon.ico" width="48">
+
+![alternate text](https://github.com/backyardbangerz/sampakiaraj/blob/master/static/img/gym/001.jpg?raw=true)
 ![alternate text](https://raw.githubusercontent.com/backyardbangerz/sampakiaraj/master/static/img/banners/banner-2.jpg)
